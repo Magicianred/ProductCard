@@ -1,0 +1,14 @@
+C:\Users\gcifguvercin\ProductsApi\bin\Debug\netcoreapp2.1\ProductsApi.deps.json
+C:\Users\gcifguvercin\ProductsApi\bin\Debug\netcoreapp2.1\ProductsApi.runtimeconfig.json
+C:\Users\gcifguvercin\ProductsApi\bin\Debug\netcoreapp2.1\ProductsApi.runtimeconfig.dev.json
+C:\Users\gcifguvercin\ProductsApi\bin\Debug\netcoreapp2.1\ProductsApi.dll
+C:\Users\gcifguvercin\ProductsApi\bin\Debug\netcoreapp2.1\ProductsApi.pdb
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.csprojAssemblyReference.cache
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.csproj.CoreCompileInputs.cache
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.RazorAssemblyInfo.cache
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.RazorAssemblyInfo.cs
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.AssemblyInfoInputs.cache
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.AssemblyInfo.cs
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.RazorTargetAssemblyInfo.cache
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.dll
+C:\Users\gcifguvercin\ProductsApi\obj\Debug\netcoreapp2.1\ProductsApi.pdb
